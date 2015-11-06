@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023", "2023\2023.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1319", "1319\1319.csproj", "{61E58367-3C0D-42B6-B81E-260A01B660A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1581", "1581\1581.csproj", "{1C184C0D-9FCC-4C19-990F-A22437B66E1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,14 @@ Global
 		{61E58367-3C0D-42B6-B81E-260A01B660A8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{61E58367-3C0D-42B6-B81E-260A01B660A8}.Release|x86.ActiveCfg = Release|Any CPU
 		{61E58367-3C0D-42B6-B81E-260A01B660A8}.Release|x86.Build.0 = Release|Any CPU
+		{1C184C0D-9FCC-4C19-990F-A22437B66E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C184C0D-9FCC-4C19-990F-A22437B66E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C184C0D-9FCC-4C19-990F-A22437B66E1A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1C184C0D-9FCC-4C19-990F-A22437B66E1A}.Debug|x86.Build.0 = Debug|Any CPU
+		{1C184C0D-9FCC-4C19-990F-A22437B66E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C184C0D-9FCC-4C19-990F-A22437B66E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C184C0D-9FCC-4C19-990F-A22437B66E1A}.Release|x86.ActiveCfg = Release|Any CPU
+		{1C184C0D-9FCC-4C19-990F-A22437B66E1A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
