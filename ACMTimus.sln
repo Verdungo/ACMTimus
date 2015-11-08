@@ -35,6 +35,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1020", "1020\1020.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1876", "1876\1876.csproj", "{DC7E0841-736D-4CCE-AF6B-A9FB4165CF0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1881", "1881\1881.csproj", "{FABDE974-C1B1-4E81-846B-95E566BB6FD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{84721028-7E2B-4C03-9268-5097674BCFBF}"
+	ProjectSection(SolutionItems) = preProject
+		ACMTimus.txt = ACMTimus.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +172,14 @@ Global
 		{DC7E0841-736D-4CCE-AF6B-A9FB4165CF0E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DC7E0841-736D-4CCE-AF6B-A9FB4165CF0E}.Release|x86.ActiveCfg = Release|Any CPU
 		{DC7E0841-736D-4CCE-AF6B-A9FB4165CF0E}.Release|x86.Build.0 = Release|Any CPU
+		{FABDE974-C1B1-4E81-846B-95E566BB6FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABDE974-C1B1-4E81-846B-95E566BB6FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABDE974-C1B1-4E81-846B-95E566BB6FD0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FABDE974-C1B1-4E81-846B-95E566BB6FD0}.Debug|x86.Build.0 = Debug|Any CPU
+		{FABDE974-C1B1-4E81-846B-95E566BB6FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABDE974-C1B1-4E81-846B-95E566BB6FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABDE974-C1B1-4E81-846B-95E566BB6FD0}.Release|x86.ActiveCfg = Release|Any CPU
+		{FABDE974-C1B1-4E81-846B-95E566BB6FD0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
